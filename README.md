@@ -1,6 +1,5 @@
 # Flight Insurance System on Ethereum Blockchain
-
-## System Design: 
+ 
 Created a distributed flight insurance system using Ethereum blockchain technology.
 
 ## Ethereum Network: 
